@@ -1,5 +1,6 @@
 # custom files
 custom/plugins/zsh-autosuggestions
+custom/plugins/zsh-completions
 
 # temp files directories
 cache/
